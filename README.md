@@ -16,6 +16,7 @@
 
 ## Exercice :
 Je vous invite à réécrire un de vos projets personnels (site portfolio, CV en ligne ...) en méthodologie **BEM**.
+
 Cela professionnalisera vote projet lorsqu'un potentiel recruteur regardera le code source !
 
 🔤 Assurez vous de créer une branche 'bem' par exemple avant de commencer.
