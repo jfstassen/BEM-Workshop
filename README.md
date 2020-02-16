@@ -19,5 +19,7 @@ Je vous invite à réécrire un de vos projets personnels (site portfolio, CV en
 Cela professionnalisera vote projet lorsqu'un potentiel recruteur regardera le code source !
 
 🔤 Assurez vous de créer une branche 'bem' par exemple avant de commencer.
+
 🔤 Réfléchissez et décomposez votre projet en Blocks, Elements et Modifiers.
+
 🔤 Si vous utiliser Scss, assurez vous d'avoir le plugin et de comprendre comment il fonctionne.
